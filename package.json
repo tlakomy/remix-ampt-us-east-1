@@ -10,8 +10,8 @@
     "typecheck": "tsc"
   },
   "ampt": {
-    "org": "",
-    "app": "remix"
+    "app": "remix-ampt-us-east-1",
+    "org": "tlakomy"
   },
   "dependencies": {
     "@ampt/remix": "^0.0.1-beta.2",
